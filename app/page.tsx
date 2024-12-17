@@ -1,4 +1,3 @@
-import Image from "next/image";
 import EmployeeForm from "../components/EmployeeForm";
 
 export default function Home() {
